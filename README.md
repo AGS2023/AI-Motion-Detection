@@ -77,9 +77,9 @@ HTTPStatus Exception: 429
 
 Please ensure you have the following dependencies installed on your system:
 
-`- ℹ️ Dependency 1`
+`- ℹ️ gcc compiler`
 
-`- ℹ️ Dependency 2`
+`- ℹ️ visual studio iDE`
 
 `- ℹ️ ...`
 
